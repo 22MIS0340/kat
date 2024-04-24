@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>75c15d5a-9b32-49e5-a0bf-4be85ad4d25d</webElementGuid>
+      <webElementGuid>f0866cc5-e671-4686-b54a-528fc16abe3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/SignInPage</value>
-      <webElementGuid>9e6840e1-a285-4308-ab50-d4ecf34e3c5f</webElementGuid>
+      <webElementGuid>dc08b159-0a5a-4ef3-bd2a-3eb09f5cfb3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>558d77d9-429a-4c3b-af2a-bcb8558b6f20</webElementGuid>
+      <webElementGuid>37654939-6adb-4b7a-90af-83ef661ee7d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;topnav&quot;]/a[5]</value>
-      <webElementGuid>d24a1a80-8715-46e2-96f4-c69254b0cd1c</webElementGuid>
+      <webElementGuid>3e8e90cf-53af-4687-8b7e-ed788ba4f8df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/a[5]</value>
-      <webElementGuid>a2890c8c-3f75-496b-babe-5bf66c2cb7b1</webElementGuid>
+      <webElementGuid>0d9afaf6-3f5b-4638-bb16-644e4c7353f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Sign In')]</value>
-      <webElementGuid>1678ef7b-6ff5-453a-95ac-e1c0a8ac2af4</webElementGuid>
+      <webElementGuid>1ec57e72-5bcf-4810-94ef-f563c6363ad5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Articles'])[1]/following::a[1]</value>
-      <webElementGuid>dbac2d79-d60c-4099-8ee1-b3af152ce6e2</webElementGuid>
+      <webElementGuid>86ff5c69-ab7e-4c2f-857a-60c38a7930d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tracker'])[1]/following::a[2]</value>
-      <webElementGuid>850e781a-5562-4ac9-a343-3e01564e58a9</webElementGuid>
+      <webElementGuid>263dcbea-dd27-4031-8dab-32ab6f42b7f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore'])[1]/preceding::a[1]</value>
-      <webElementGuid>3c8afc23-6eeb-4026-b96c-1839a727524e</webElementGuid>
+      <webElementGuid>9eee2f27-8d18-48f5-9769-a93454736fe3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>94864d1a-fcf0-45ee-bd43-46abe984c54d</webElementGuid>
+      <webElementGuid>fda941cf-9a27-4684-9a95-230ee542c7f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/SignInPage')]</value>
-      <webElementGuid>51a77e2e-1002-4cce-acac-1c2a3d34d057</webElementGuid>
+      <webElementGuid>ce93306c-ac59-4931-95e0-3fb3cc5260a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[5]</value>
-      <webElementGuid>7595dc0a-06b8-405b-8c0a-c3659b90553f</webElementGuid>
+      <webElementGuid>5c213088-014d-4bb5-a5e4-bcb29beb17ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/SignInPage' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>5b0b0935-635a-4595-ae78-1bd5efb05197</webElementGuid>
+      <webElementGuid>05ab444e-9470-49c7-88bf-ec1baa814b6c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
